@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FairySaikiNoKysyo.github.io/goit-react-hw-07-phonebook/static/css/main.cd2e038f.css",
-    "main.js": "/FairySaikiNoKysyo.github.io/goit-react-hw-07-phonebook/static/js/main.5e912112.js",
-    "index.html": "/FairySaikiNoKysyo.github.io/goit-react-hw-07-phonebook/index.html",
-    "main.cd2e038f.css.map": "/FairySaikiNoKysyo.github.io/goit-react-hw-07-phonebook/static/css/main.cd2e038f.css.map",
-    "main.5e912112.js.map": "/FairySaikiNoKysyo.github.io/goit-react-hw-07-phonebook/static/js/main.5e912112.js.map"
+    "main.css": "/goit-react-hw-07-phonebook/static/css/main.cd2e038f.css",
+    "main.js": "/goit-react-hw-07-phonebook/static/js/main.be668130.js",
+    "index.html": "/goit-react-hw-07-phonebook/index.html",
+    "main.cd2e038f.css.map": "/goit-react-hw-07-phonebook/static/css/main.cd2e038f.css.map",
+    "main.be668130.js.map": "/goit-react-hw-07-phonebook/static/js/main.be668130.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.5e912112.js"
+    "static/js/main.be668130.js"
   ]
 }
